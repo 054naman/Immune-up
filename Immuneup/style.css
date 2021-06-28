@@ -1,0 +1,50 @@
+.main-div h1
+{
+  text-align: center;
+  
+}
+.form1
+{
+  text-align: center;
+}
+.center, th , td {
+  margin-left: auto;
+  margin-right: auto;
+
+  border:1px solid black ;
+}
+.copyrightText
+{
+
+
+  position: fixed;
+              padding: 8px 40px;
+              bottom: 0;
+              width: 100%;
+              /* Height of the footer*/
+              height: 80px;
+              background-color: #333333;
+
+
+
+}
+.copyrightText p
+{
+  color: white;
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+/*.copyrightText a
+{
+  color: #ff0157;
+  font-weight: 500;
+  text-decoration: none;
+}
